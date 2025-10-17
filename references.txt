@@ -1,0 +1,99 @@
+[1] E. Luiijf, A. Besseling, and P. De Graaf, “Nineteen National Cyber Security Strategies,” International Journal of Critical Infrastructure Protection, vol. 9, 2013, pp. 3–31.
+[2] U. Tatar, T. Gokce, and E. Calisir, “Comparative Analysis of National Cyber Security Strategies of Leading Countries,” Proceedings of the International Conference on Cyber Warfare and Security, 2014.
+[3] A. Csernatoni, “Geopolitics by Other Means: The EU’s International Role in AI Regulation,” Carnegie Europe, 2024.
+[4] L. Floridi et al., “AI4People—An Ethical Framework for a Good AI Society,” Minds and Machines, vol. 28, no. 4, 2018, pp. 689–707.
+[5] A. Smith, “Global Cybercrime Cost Forecast: $20 Trillion by 2030,” Cybersecurity Ventures, 2023.
+[6] D. Brundage et al., “Trustworthy AI: A Risk Management Framework,” NIST Special Publication 1270, 2023.
+[7] International Association of Privacy Professionals (IAPP), “Global Comprehensive Privacy Law Mapping,” 2024.
+[8] Y. Yang, L. Xie, and F. Zhang, “Ideological Conflicts in Global Tech Governance,” Fudan Journal of Humanities and Social Sciences, vol. 18, 2025, pp. 321–345.
+[9] R. Shafqat and S. Masood, “Analysis of Cyber Security Strategies to Combat Threats,” Future Internet, vol. 8, no. 3, 2016.
+[10] M. Kolini and L. Janczewski, “Clustering National Cyber Security Strategies,” Information & Computer Security, vol. 25, no. 3, 2017, pp. 344–355.
+[11] O. Odebade and E. Benkhelifa, “A Comparative Review of Ten National Cybersecurity Strategies,” Journal of Cyber Policy, vol. 8, no. 1, 2023.
+[12] Y. Zhang, “Comparative AI Governance Models: EU, US, China, and Beyond,” Washington Journal of Law, Technology & Arts (WJLTA) Blog, 2024.
+[13] J. K. Liu, “AI Regulation in China: Cybersecurity, Data, and Generative AI,” Asia-Pacific Law Review, vol. 32, no. 1, 2024.
+[14] World Economic Forum, “Bridging Cybersecurity and Privacy: Challenges in Cross-Border Data Sharing,” 2023.
+
+
+Odebade, A. T., & Benkhelifa, E. "A Comparative Study of National Cyber Security Strategies of ten nations," Staffordshire Univ., 2025.
+
+Sonasri, S., Blessy Priya, N., "Regulating AI: A Comparative Analysis of India and Global Frameworks," IJCRT, vol. 13, no. 4, 2025.
+
+White & Case LLP, “AI Watch: Global regulatory tracker - United States,” White & Case Insights, 2025.
+
+IAPP, “Global AI Law and Policy Tracker,” International Association of Privacy Professionals, 2025.
+
+World Economic Forum, “Global Cybersecurity Outlook 2025,” World Economic Forum Report, January 2025.
+
+Accenture, "State of Cybersecurity Resilience 2025," Accenture Global Report, June 2025.
+
+IEEE LLM & Cybersecurity Review, "Application of Large Language Models in Cybersecurity: A Systematic Literature Review," IEEE Xplore, 2024.
+
+Chen, H., Wang, Z., & Liu, G. “Citizens’ Data Privacy in China: The State of the Art of the Personal Information Protection Law (PIPL),” MDPI Information, vol. 5, no. 3, 2022.
+
+“Global AI Governance: A Comparative Analysis of the US, EU, and Chinese Approaches,” ComplianceHub Wiki, Oct. 2024.
+
+“DATA PRIVACY LAWS – A GLOBAL COMPARISON,” Vintage Legal, Oct. 2021.
+
+WEF, "Global Cybersecurity Outlook 2025," World Economic Forum, Jan. 2025.
+
+ITU, "Guide to Developing a National Cybersecurity Strategy," International Telecommunication Union, 2021.
+
+NCS Guide, "National Cybersecurity Strategy Good Practice," NCS Guide, 2024.
+
+Crowell & Moring LLP, "EU Artificial Intelligence Act," Crowell, 2025.
+
+BSR, "The EU AI Act: Where Do We Stand in 2025?," BSR Insight Blog, May 2025.
+
+IAPP, "Global AI Governance Law and Policy: India," IAPP, Jul. 2024.
+
+Digital Privacy Laws and Regulations Around the World, IEEE Digital Privacy Initiative, May 2025.
+
+"CCPA vs GDPR: Comparison," Securiti, Nov. 2024.
+
+"GDPR v. PIPL - DataGuidance," DataGuidance, 2025.
+
+"Consent Mechanisms Under the Digital Personal Data Protection Act, 2023: A Comparative Legal Analysis with GDPR and CCPA/CPRA," LIJDLR, May 2025.
+
+U.S. Cybersecurity and Data Privacy Review and Outlook – 2025, Gibson Dunn, Sep. 2025.
+
+"Cybersecurity and AI as enablers of economic resilience: A framework for sustainable growth in developing countries," JAS-ND, Aug. 2025.
+
+National Cybersecurity Strategy, White House, Feb. 2023.
+
+"Artificial Intelligence (AI) Basic Act," South Korea Market Intelligence, Apr. 2025.
+
+"Japan passes innovation-focused AI governance bill," IAPP, Jun. 2025.
+
+"NAIS 2.0: National AI Strategy," Smart Nation Singapore, 2025.
+
+"PIPL vs. GDPR: Comparative Internal Compliance Analysis," Cookie Script, Aug. 2025.
+
+"EU AI Act 2025 Update: GPAI Rules & Compliance," Nemko Digital, Aug. 2025.
+
+"Infographic: The CSF in Action Around the World," ASIS International, Feb. 2024.
+
+"Artificial Intelligence and Cybersecurity: Balancing Risks and Rewards," World Economic Forum, 2025.
+
+"Privacy Impact Assessment: Comparing methodologies," arXiv, Oct. 2021.
+
+"Charting ASEAN's Path to AI Governance," NBR, Sep. 2018.
+
+"Guide to Developing a National Cybersecurity Strategy," ITU, 2018.
+
+"Emerging Data Privacy Laws and Regulations Around the World," IEEE, May 2025.
+
+"A Comparative Analysis of Data Privacy Laws: GDPR, CCPA, LGPD," LinkedIn, Aug. 2023.
+
+"Balancing Cybersecurity Policies and Institutional Ethics," RGSA Open Access, Jan. 2025.
+
+"Artificial intelligence (AI) cybersecurity dimensions: a comprehensive framework for understanding adversarial and offensive AI," Springer, Feb. 2024.
+
+"India’s National Cybersecurity Policy 2025," Ministry of Electronics and IT, Government of India, 2025.
+
+"A policy framework on AI usage in developing countries and its impact," GJETA, Oct. 2024.
+
+"AI Governance in Latin America," Center for Cybersecurity Policy Studies, Aug. 2025.
+
+"International AI Governance Framework: The Importance of G7-G20 Leadership," CIGI, 2025.
+
+"Artificial Intelligence Update - August 2025," Quinn Emanuel, Aug. 2025.
