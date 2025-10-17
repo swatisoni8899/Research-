@@ -5,7 +5,7 @@ We will be having a minimal use of GitHub Repo as we are not going to run any si
 
 🔗Links:
 
-[1] References: [https://github.com/swatisoni8899/Research-/blob/main/references.txt](url) 
+[1] References: [https://github.com/swatisoni8899/Research-/blob/main/references.txt]([url](https://github.com/swatisoni8899/Research-/blob/main/references.txt)) 
 
 [2] Main Paper: [https://iit0-my.sharepoint.com/:w:/r/personal/kbamanjogi_hawk_illinoistech_edu/Documents/Main%20Paper%20Doc.docx?d=w02ae97e61b6f4cac9e1cb834cd1ad7a9&csf=1&web=1&e=uJ7IWB](url) (Prior access required)
 
