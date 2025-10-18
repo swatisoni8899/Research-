@@ -5,8 +5,11 @@ The GitHub repository will be utilized in a limited capacity as we are not going
 
 🔗Links:
 
-[1] References: [https://github.com/swatisoni8899/Research-/blob/main/references.txt](https://github.com/swatisoni8899/Research-/blob/main/references.txt) 
+[1] Research Paper Summary Template.docx : https://iit0-my.sharepoint.com/personal/ppakshad_hawk_illinoistech_edu/Documents/../../../:w:/g/personal/kbamanjogi_hawk_illinoistech_edu/Ecs2vdIfmgtFkxwxm7kkoH8BWKcCWl5JPZcCfp-bD0Nuaw?e=BHfZQE
 
-[2] Main Paper: [https://iit0-my.sharepoint.com/:w:/r/personal/kbamanjogi_hawk_illinoistech_edu/Documents/Main%20Paper%20Doc.docx?d=w02ae97e61b6f4cac9e1cb834cd1ad7a9&csf=1&web=1&e=uJ7IWB](https://iit0-my.sharepoint.com/:w:/r/personal/kbamanjogi_hawk_illinoistech_edu/Documents/Main%20Paper%20Doc.docx?d=w02ae97e61b6f4cac9e1cb834cd1ad7a9&csf=1&web=1&e=uJ7IWB) (Prior access required)
 
-[3] Video Link: 
+[2] References: [https://github.com/swatisoni8899/Research-/blob/main/references.txt](https://github.com/swatisoni8899/Research-/blob/main/references.txt) 
+
+[3] Main Paper: [https://iit0-my.sharepoint.com/:w:/r/personal/kbamanjogi_hawk_illinoistech_edu/Documents/Main%20Paper%20Doc.docx?d=w02ae97e61b6f4cac9e1cb834cd1ad7a9&csf=1&web=1&e=uJ7IWB](https://iit0-my.sharepoint.com/:w:/r/personal/kbamanjogi_hawk_illinoistech_edu/Documents/Main%20Paper%20Doc.docx?d=w02ae97e61b6f4cac9e1cb834cd1ad7a9&csf=1&web=1&e=uJ7IWB) (Prior access required)
+
+[4] Video Link: 
