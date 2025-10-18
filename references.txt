@@ -97,3 +97,20 @@ National Cybersecurity Strategy, White House, Feb. 2023.
 "International AI Governance Framework: The Importance of G7-G20 Leadership," CIGI, 2025.
 
 "Artificial Intelligence Update - August 2025," Quinn Emanuel, Aug. 2025.
+
+European Union Agency for Cybersecurity (ENISA). (2016). National Cyber Security Strategies: Practical Guide on Development and Execution. ENISA Publications.
+Floridi, L., et al. (2020). AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations. Minds and Machines, 30(1), 77–95.
+Horowitz, M. C. (2021). The Promise and Peril of Artificial Intelligence: Understanding National AI Strategies. Foreign Affairs.
+Kolini, F., & Janczewski, L. (2017). Clustering National Cybersecurity Strategies: An Exploratory Analysis. International Journal of Computer Network and Information Security, 9(2), 1–12.
+Luiijf, E., Besseling, K., & De Graaf, P. (2013). Ten National Cyber Security Strategies: A Comparison. International Journal of Critical Infrastructure Protection, 9, 3–31.
+Min, S., Park, J., & Kim, D. (2015). A Comparative Study on the National Cybersecurity Strategies of the U.S., U.K., and South Korea. Journal of Information Security, 6(3), 206–214.
+NITI Aayog (Government of India). (2018). National Strategy for Artificial Intelligence – #AIforAll. Government of India.
+Odebade, A., & Benkhelifa, E. (2023). Comparative Analysis of National Cybersecurity Strategies. arXiv preprint arXiv:2303.13938.
+Shafqat, N., & Masood, A. (2016). Comparative Analysis of Various National Cyber Security Strategies. International Journal of Computer Science and Information Security, 14(1), 129–135.
+World Economic Forum (WEF). (2022). Global Cybersecurity Outlook 2022. WEF Report Series.
+OECD. (2019). OECD Principles on Artificial Intelligence. OECD Legal Instruments
+
+
+
+
+
