@@ -1,7 +1,7 @@
 # Research-
 Research on the theme: Comparative Study of International Cybersecurity and AI Policies
 
-We will be having a minimal use of GitHub Repo as we are not going to run any simulations, or compare data based on any trained models. As such, the use of this repo will be limited to collaboration between team members, and sharing of resources. 
+The GitHub repository will be utilized in a limited capacity as we are not going to run any simulations, or compare data based on any trained models.The repository will not be employed for computational tasks or data processing activities. As such, the use of this repository will be limited to collaboration between team members, and sharing of resources.
 
 🔗Links:
 
